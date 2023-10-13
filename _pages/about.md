@@ -17,42 +17,75 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I received my B.S. degree in Software Engineering from Zhejiang University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests broadly lie in the intersection of visual analytics, human-centered computing, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, aiming at exploring enhanced techniques for interacting with large language models (LLMs).
 
+Besides, I am passionate about photography and traveling.
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/gptdetect.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Towards an Understanding and Explanation for Mixed-Initiative Artificial Scientific Text Detection**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Luoxuan Weng**, Minfeng Zhu, Kam Kwai Wong, Shi Liu, Jiashun Sun, Hang Zhu, Dongming Han, Wei Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Arxiv Preprint, 2023
+
+[PDF](https://arxiv.org/pdf/2304.05011)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/dnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Visual Diagnostics of Parallel Performance in Training Large-Scale DNN Models**
+
+Yating Wei, Zhiyong Wang, Zhongwei Wang, Yong Dai, Gongchang Ou, Han Gao, Haitao Yang, Yue Wang, Caleb Chen Cao, **Luoxuan Weng**, Jiaying Lu, Rongchen Zhu, Wei Chen
+
+IEEE Transactions on Visualization and Computer Graphics, 2023
+
+[PDF](https://ieeexplore.ieee.org/abstract/document/10041726) \| [Video](https://zjuvag.org/publications/wei-2023-visual/wei-2023-visual.video.mp4)
+
+</div>
+</div>
+
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/situated.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization**
+
+Zhen Wen, Wei Zeng, **Luoxuan Weng**, Yihan Liu, Mingliang Xu, Wei Chen
+
+IEEE Visualization, 2022
+
+[PDF](https://ieeexplore.ieee.org/abstract/document/9904883) \| [Video](https://zjuvag.org/publications/situated-multiple-view/situated-multiple-view.video.mp4)
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduate of Zhejiang University, 2021
+- Excellent Engineering Scholarship, 2021
+- Zhejiang University Scholarship, 2017-2020
+- Academic Excellence Award, 2017-2020
+- Innovation and Entrepreneurship Award, 2017
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Ph.D. student @ZJU, Computer Engineering, 2021-Present
+- B.S. @ZJU, Software Engineering, 2017-2021
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
