@@ -40,8 +40,8 @@ Besides, I am passionate about traveling.
 - Meritorious Winner - Mathematical Contest in Modeling, 2020
 
 # 📖 Educations
-- Master student @NJU, Computer Engineering, 2021-Present
-- B.S. @HIT, Information and Computing Science, 2017-2021
+- Master student @NJU, Computer Engineering, *2021 - Present*
+- B.S. @HIT, Information and Computing Science, *2017 - 2021*
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
