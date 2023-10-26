@@ -27,8 +27,9 @@ Besides, I am passionate about traveling.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💻 Internships
+# 💻 Experiences
 - *2023.05 - 2023.09*, [BoomingTech](https://www.boomingtech.com/), AI Engineer, Hangzhou.
+- *2021.07 - 2021.10*, [Webace](http://www.webace-i3c.com/#/), Algorithm Engineer, Nanjing.
 - *2020.07 - 2020.12*, [Huawei](https://www.huawei.com/cn/), Software Engineer, Nanjing.
 - *2019.08 - 2019.12*, [POSTECH](https://www.postech.ac.kr/eng/), Exchange Student, Korea.
 
