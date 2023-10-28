@@ -33,6 +33,9 @@ Besides, I am passionate about traveling.
 - *2020.07 - 2020.12*, [Huawei](https://www.huawei.com/cn/), Software Engineer, Nanjing.
 - *2019.08 - 2019.12*, [POSTECH](https://www.postech.ac.kr/eng/), Exchange Student, Korea.
 
+# 📝 Publications
+Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. *Efficient Subgame Refinement for Extensive-form Games*. Thirty-seventh Conference on Neural Information Processing Systems **(NeurIPS 2023)**. [[URL](https://www.microsoft.com/en-us/research/publication/efficient-subgame-refinement-for-extensive-form-games/)]
+
 
 # 🎖 Honors and Awards
 - Winner's Prize - China Artificial Intelligence Game Competition, 2022
