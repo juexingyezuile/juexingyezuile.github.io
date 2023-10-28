@@ -44,8 +44,8 @@ Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. *Efficient Subgame 
 - Meritorious Winner - Mathematical Contest in Modeling, 2020
 
 # 📖 Educations
-- Master student @NJU, Computer Engineering, *2021 - Present*
-- B.S. @HIT, Information and Computing Science, *2017 - 2021*
+- Master student @[NJU](https://www.nju.edu.cn/), Computer Engineering, *2021 - Present*
+- B.S. @[HIT](https://www.hit.edu.cn/), Information and Computing Science, *2017 - 2021*
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
