@@ -38,10 +38,14 @@ Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. *Efficient Subgame 
 
 
 # 🎖 Honors and Awards
-- Winner's Prize - China Artificial Intelligence Game Competition, 2022
-- Outstanding Graduate of Harbin Institute of Technology, 2021
-- Second Prize - National College Students Mathematical Competition (Heilongjiang Division), 2020
-- Meritorious Winner - Mathematical Contest in Modeling, 2020
+- Winner's Prize - China Artificial Intelligence Game Competition, *2022*
+- Outstanding Graduate of Harbin Institute of Technology, *2021*
+- Second Prize - National College Students Mathematical Competition (Heilongjiang Division), *2020*
+- Meritorious Winner (6%) - Mathematical Contest in Modeling, *2020*
+- OneStar-rated Volunteer (>100 hours) - Certificate of Excellent Voluntary Service, *2019*
+- Director of General Affairs Department, Student Union, School of Science - Certificate of Commendation, *2019*
+- University Scholarship, *2017 - 2022*
+
 
 # 📖 Educations
 - Master student @[NJU](https://www.nju.edu.cn/), Computer Engineering, *2021 - Present*
