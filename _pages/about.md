@@ -34,7 +34,20 @@ Besides, I am passionate about traveling.
 - *2019.08 - 2019.12*, [POSTECH](https://www.postech.ac.kr/eng/), Exchange Student, Korea.
 
 # 📝 Publications
-Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. *Efficient Subgame Refinement for Extensive-form Games*. Thirty-seventh Conference on Neural Information Processing Systems **(NeurIPS 2023)**. [[URL](https://www.microsoft.com/en-us/research/publication/efficient-subgame-refinement-for-extensive-form-games/)]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/papers/GS2_poster.png' alt="GS2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Efficient Subgame Refinement for Extensive-form Games**
+
+Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao
+
+Neural Information Processing Systems **(NeurIPS)**, 2023
+
+[PDF](https://openreview.net/pdf?id=8HzOyg1ngp) | [Supplemental](https://openreview.net/attachment?id=8HzOyg1ngp&name=supplementary_material) | [Video](https://neurips.cc/virtual/2023/poster/72659)
+
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
