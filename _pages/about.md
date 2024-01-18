@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student of Computer Engineering at the <a href="https://cs.nju.edu.cn/rl/index.htm">Reasoning and Learning Research Group of NJU</a>, under the supervision of Prof. <a href="https://cs.nju.edu.cn/58/14/c2639a153620/page.htm">Yang Gao</a>. Before that, I received my B.S. degree in Information and Computing Science from Harbin Institute of Technology, Weihai.
+I am currently a Master student of Computer Engineering at the <a href="https://cs.nju.edu.cn/rl/index.htm">Reasoning and Learning Research Group of NJU</a>, under the supervision of Prof. <a href="https://is.nju.edu.cn/d3/56/c58208a643926/page.htm">Yang Gao</a>. Before that, I received my B.S. degree in Information and Computing Science from Harbin Institute of Technology, Weihai.
 
 My research interests lie in the artificial intelligence, computational game theory, and reinforcement learning. I design and implement novel algorithms and desicion systems that enable agents more intelligent and more efficient. Recently, I am specifically interested in game AI, aiming at exploring enhanced techniques and frameworks (with ML, RL, SL, LLM etc.) for building powerful AI agents in computer games.
 
