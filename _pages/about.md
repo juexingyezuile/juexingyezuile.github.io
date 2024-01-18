@@ -41,9 +41,9 @@ Besides, I am passionate about traveling.
 
 Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao
 
-Neural Information Processing Systems **(NeurIPS)**, 2023
+<p style="color: red;">Neural Information Processing Systems <b>(NeurIPS)</b>, 2023</p>
 
-[PDF](https://openreview.net/pdf?id=8HzOyg1ngp) | [Supplemental](https://openreview.net/attachment?id=8HzOyg1ngp&name=supplementary_material) | [Video](https://neurips.cc/virtual/2023/poster/72659)
+[PDF](https://openreview.net/pdf?id=8HzOyg1ngp) \| [Supplemental](https://openreview.net/attachment?id=8HzOyg1ngp&name=supplementary_material) \| [Video](https://neurips.cc/virtual/2023/poster/72659)
 
 </div>
 </div>
