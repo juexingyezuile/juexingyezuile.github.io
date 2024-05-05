@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Master student of Computer Engineering at the <a href="https://cs.nju.edu.cn/rl/index.htm">Reasoning and Learning Research Group of NJU</a>, under the supervision of Prof. <a href="https://is.nju.edu.cn/d3/56/c58208a643926/page.htm">Yang Gao</a>. Before that, I received my B.S. degree in Information and Computing Science from Harbin Institute of Technology, Weihai.
 
-My research interests lie in the artificial intelligence, computational game theory, and reinforcement learning. I design and implement novel algorithms and desicion systems that enable agents more intelligent and more efficient. Recently, I am specifically interested in game AI, aiming at exploring enhanced techniques and frameworks (with ML, RL, SL, LLM etc.) for building powerful AI agents in computer games.
+My research interests lie in the artificial intelligence, computational game theory, and reinforcement learning. I design and implement novel algorithms and desicion systems that enable agents more intelligent and more efficient. Recently, I am specifically interested in game AI, aiming at exploring enhanced techniques and frameworks (with ML, RL, IL, LLM etc.) for building powerful AI agents in computer games.
 
 Besides, I am passionate about traveling.
 
@@ -48,6 +48,20 @@ Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='images/papers/OXS.png' alt="OXS" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Safe and Robust Subgame Exploitation in Imperfect Information Games**
+
+Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao
+
+<p style="color: red;">International Conference on Machine Learning <b>(ICML)</b>, 2024</p>
+
+<!-- [PDF](https://openreview.net/pdf?id=8HzOyg1ngp) \| [Supplemental](https://openreview.net/attachment?id=8HzOyg1ngp&name=supplementary_material) \| [Video](https://neurips.cc/virtual/2023/poster/72659) -->
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
