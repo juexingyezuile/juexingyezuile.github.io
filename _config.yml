@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Xu (徐峥)"
-description              : "Master Student @NJU"
+description              : "Game AI Engineer @NetEase"
 repository               : "juexingyezuile/juexingyezuile.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Xu (徐峥)"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "State Key Laboratory of Novel Software Technology, Nanjing University"
-  location         : "Nanjing, China"
-  employer         :
+  bio              : "Life is an Imperfect-info Game."
+  location         : "Hangzhou, China"
+  employer         : 
   pubmed           : 
   googlescholar    :
   email            : "juexingyezuile@gmail.com"
