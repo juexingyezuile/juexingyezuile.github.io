@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently an AI engineer of Game Dept. at <a href="https://grow.163.com">GrowthEase Div.</a> of <a href="https://ir.netease.com/">NetEase</a>.
 
-I received my M.E. degree in Computer Engineering at the [<a href="https://cs.nju.edu.cn/rl/index.htm">Reasoning and Learning Research Group</a> & <a href="https://cs.nju.edu.cn/main.htm">Department of Computer Science and Technology</a> & <a href="https://keysoftlab.nju.edu.cn/main.htm">State Key Laboratory of Novel Software Technology</a>] of Nanjing University, under the supervision of Prof. <a href="https://is.nju.edu.cn/d3/56/c58208a643926/page.htm">Yang Gao</a>. Before that, I received my B.S. degree in Information and Computing Science from Harbin Institute of Technology, Weihai.
+I received my M.E. degree in Computer Technology at the [<a href="https://cs.nju.edu.cn/rl/index.htm">Reasoning and Learning Research Group</a> & <a href="https://cs.nju.edu.cn/main.htm">Department of Computer Science and Technology</a> & <a href="https://keysoftlab.nju.edu.cn/main.htm">State Key Laboratory of Novel Software Technology</a>] of Nanjing University, under the supervision of Prof. <a href="https://is.nju.edu.cn/d3/56/c58208a643926/page.htm">Yang Gao</a>. Before that, I received my B.S. degree in Information and Computing Science from Harbin Institute of Technology, Weihai.
 
 My research interests lie in the artificial intelligence, computational game theory, and reinforcement learning. I design and implement novel algorithms and desicion systems that enable agents more intelligent and more efficient. Recently, I am specifically interested in game AI, aiming at exploring enhanced techniques and frameworks (with ML, RL, IL, LLM etc.) for building powerful AI agents in computer games.
 
@@ -36,36 +36,9 @@ Besides, I am passionate about traveling.
 - *2019.08 - 2019.12*, [Department of Mathematics](https://math.postech.ac.kr/), [POSTECH](https://www.postech.ac.kr/), Exchange Student, Korea.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/papers/GS2_poster.png' alt="GS2" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Efficient Subgame Refinement for Extensive-form Games**
-
-Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao
-
-
-<p style="color: red;">Neural Information Processing Systems <b>(NeurIPS)</b>, 2023</p>
-
-[PDF](https://openreview.net/pdf?id=8HzOyg1ngp) \| [Supplemental](https://openreview.net/attachment?id=8HzOyg1ngp&name=supplementary_material) \| [Video](https://neurips.cc/virtual/2023/poster/72659)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='images/papers/OXS.png' alt="OXS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Safe and Robust Subgame Exploitation in Imperfect Information Games**
-
-Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao
-
-<p style="color: red;">International Conference on Machine Learning <b>(ICML)</b>, 2024</p>
-
-<!-- [PDF](https://openreview.net/pdf?id=8HzOyg1ngp) \| [Supplemental](https://openreview.net/attachment?id=8HzOyg1ngp&name=supplementary_material) \| [Video](https://neurips.cc/virtual/2023/poster/72659) -->
-
-</div>
-</div>
-
+- Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. [Efficient Subgame Refinement for Extensive-form Games](https://neurips.cc/virtual/2023/poster/72659), Advances in Neural Information Processing Systems **(NeurIPS)**, 2023.
+- Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao. [Safe and Robust Subgame Exploitation in Imperfect Information Games](https://neurips.cc/virtual/2023/poster/72659), International Conference on Machine Learning **(ICML)**, 2024.
 
 # 🎖 Honors and Awards
 - Winner's Prize - China Artificial Intelligence Game Competition, *2022*
@@ -78,7 +51,7 @@ Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao
 
 
 # 📖 Educations
-- M.E. @[NJU](https://www.nju.edu.cn/), Computer Engineering, *2021 - 2024*
+- M.E. @[NJU](https://www.nju.edu.cn/), Computer Technology, *2021 - 2024*
 - B.S. @[HIT](https://www.hit.edu.cn/), Information and Computing Science, *2017 - 2021*
 
 <!-- # 💬 Invited Talks
