@@ -24,21 +24,18 @@ My research interests lie in the artificial intelligence, computational game the
 
 Besides, I am passionate about traveling.
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- # 🔥 News -->
 
 # 💻 Experiences
 - *2024.07 - Present*, [GrowthEase](https://grow.163.com), [NetEase](https://ir.netease.com/), AI Engineer, Hangzhou.
 - *2023.05 - 2023.09*, [Booming Tech](https://www.boomingtech.com/), AI Engineer, Hangzhou.
 - *2021.06 - 2021.10*, [Webace](http://www.webace-i3c.com/#/), Algorithm Engineer, Nanjing.
 - *2020.07 - 2020.12*, [Consumer Business Group](https://consumer.huawei.com/), [Huawei](https://www.huawei.com/cn/), Software Engineer, Nanjing.
-- *2019.08 - 2019.12*, [Department of Mathematics](https://math.postech.ac.kr/), [POSTECH](https://www.postech.ac.kr/), Exchange Student, Korea.
 
 # 📝 Publications
 
 - Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. [Efficient Subgame Refinement for Extensive-form Games](https://neurips.cc/virtual/2023/poster/72659), Advances in Neural Information Processing Systems **(NeurIPS)**, 2023.
-- Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao. [Safe and Robust Subgame Exploitation in Imperfect Information Games](https://neurips.cc/virtual/2023/poster/72659), International Conference on Machine Learning **(ICML)**, 2024.
+- Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao. [Safe and Robust Subgame Exploitation in Imperfect Information Games](https://icml.cc/virtual/2024/poster/34372), International Conference on Machine Learning **(ICML)**, 2024.
 
 # 🎖 Honors and Awards
 - Winner's Prize - China Artificial Intelligence Game Competition, *2022*
@@ -52,11 +49,7 @@ Besides, I am passionate about traveling.
 
 # 📖 Educations
 - M.E. @[NJU](https://www.nju.edu.cn/), Computer Technology, *2021 - 2024*
+- Exchange @[POSTECH](https://www.postech.ac.kr/), Mathematics, *2019 - 2019*
 - B.S. @[HIT](https://www.hit.edu.cn/), Information and Computing Science, *2017 - 2021*
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💬 Invited Talks -->
