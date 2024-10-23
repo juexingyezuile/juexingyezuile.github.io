@@ -33,11 +33,12 @@ Besides, I am passionate about traveling.
 - *2020.07 - 2020.12*, [Consumer Business Group](https://consumer.huawei.com/), [Huawei](https://www.huawei.com/cn/), Software Engineer, Nanjing.
 
 # 📝 Publications
-
-- Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. [Efficient Subgame Refinement for Extensive-form Games](https://neurips.cc/virtual/2023/poster/72659), Advances in Neural Information Processing Systems **(NeurIPS)**, 2023.
+- Guang Yang, **Zheng Xu**, Jing Huo, Shangdong Yang, Tianyu Ding, Xingguo Chen, Yang Gao. [State Abstraction via Deep Supervised Hash Learning](https://ieeexplore.ieee.org/abstract/document/10723098), IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2024.
 - Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao. [Safe and Robust Subgame Exploitation in Imperfect Information Games](https://icml.cc/virtual/2024/poster/34372), International Conference on Machine Learning **(ICML)**, 2024.
+- Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. [Efficient Subgame Refinement for Extensive-form Games](https://neurips.cc/virtual/2023/poster/72659), Advances in Neural Information Processing Systems **(NeurIPS)**, 2023.
 
 # 🎖 Honors and Awards
+- The Champion - NetEase Hackathon, *2024*
 - Winner's Prize - China Artificial Intelligence Game Competition, *2022*
 - Outstanding Graduate of Harbin Institute of Technology, *2021*
 - Second Prize - National College Students Mathematical Competition (Heilongjiang Division), *2020*
