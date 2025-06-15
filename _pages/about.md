@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently an AI engineer of Game Dept. at <a href="https://grow.163.com">GrowthEase Div.</a> of <a href="https://ir.netease.com/">NetEase</a>.
+I am currently an AI engineer of <a href="https://www.sparknexa.com/">Spark Nexa</a> of <a href="https://www.kuaishou.com/about/">Kuaishou</a>.
 
 I received my M.E. degree in Computer Technology at the [<a href="https://cs.nju.edu.cn/rl/index.htm">Reasoning and Learning Research Group</a> & <a href="https://cs.nju.edu.cn/main.htm">Department of Computer Science and Technology</a> & <a href="https://keysoftlab.nju.edu.cn/main.htm">State Key Laboratory of Novel Software Technology</a>] of Nanjing University, under the supervision of Prof. <a href="https://is.nju.edu.cn/d3/56/c58208a643926/page.htm">Yang Gao</a>. Before that, I received my B.S. degree in Information and Computing Science from Harbin Institute of Technology, Weihai.
 
@@ -27,7 +27,8 @@ Besides, I am passionate about traveling.
 <!-- # 🔥 News -->
 
 # 💻 Experiences
-- *2024.07 - Present*, [GrowthEase](https://grow.163.com), [NetEase](https://ir.netease.com/), AI Engineer, Hangzhou.
+- *2025.06 - Present*, [Spark Nexa](https://www.sparknexa.com/), [Kuaishou](https://www.kuaishou.com/about/), Game AI Algorithm Engineer, Hangzhou.
+- *2024.07 - 2025.06*, [GrowthEase](https://grow.163.com), [NetEase](https://ir.netease.com/), AI Engineer, Hangzhou.
 - *2023.05 - 2023.09*, [Booming Tech](https://www.boomingtech.com/), AI Engineer, Hangzhou.
 - *2021.06 - 2021.10*, [Webace](http://www.webace-i3c.com/#/), Algorithm Engineer, Nanjing.
 - *2020.07 - 2020.12*, [Consumer Business Group](https://consumer.huawei.com/), [Huawei](https://www.huawei.com/cn/), Software Engineer, Nanjing.
