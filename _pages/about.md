@@ -29,11 +29,12 @@ Besides, I am passionate about traveling.
 # 💻 Experiences
 - *2025.06 - Present*, [Spark Nexa](https://www.sparknexa.com/), [Kuaishou](https://www.kuaishou.com/about/), Game AI Algorithm Engineer, Hangzhou.
 - *2024.07 - 2025.06*, [GrowthEase](https://grow.163.com), [NetEase](https://ir.netease.com/), AI Engineer, Hangzhou.
-- *2023.05 - 2023.09*, [Booming Tech](https://www.boomingtech.com/), AI Engineer, Hangzhou.
-- *2021.06 - 2021.10*, [Webace](http://www.webace-i3c.com/#/), Algorithm Engineer, Nanjing.
-- *2020.07 - 2020.12*, [Consumer Business Group](https://consumer.huawei.com/), [Huawei](https://www.huawei.com/cn/), Software Engineer, Nanjing.
+- *2023.05 - 2023.09*, [Booming Tech](https://www.boomingtech.com/), AI Engineer (Intern), Hangzhou.
+- *2021.06 - 2021.10*, [Webace](http://www.webace-i3c.com/#/), Algorithm Engineer (Intern), Nanjing.
+- *2020.07 - 2020.12*, [Consumer Business Group](https://consumer.huawei.com/), [Huawei](https://www.huawei.com/cn/), Software Engineer (Intern), Nanjing.
 
 # 📝 Publications
+- Linjian Meng, Youzhi Zhang, Zhenxing Ge, Tianyu Ding, Shangdong Yang, **Zheng Xu**, Wenbin Li, Yang Gao. [Last-Iterate Convergence of Smooth Regret Matching Variants in Learning Nash Equilibria](https://proceedings.neurips.cc/paper_files/paper/2025/hash/1b8612e11c75456c90963fd408d75c4d-Abstract-Conference.html), Advances in Neural Information Processing Systems **(NeurIPS)**, 2025.
 - Guang Yang, **Zheng Xu**, Jing Huo, Shangdong Yang, Tianyu Ding, Xingguo Chen, Yang Gao. [State Abstraction via Deep Supervised Hash Learning](https://ieeexplore.ieee.org/abstract/document/10723098), IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2024.
 - Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Linjian Meng, Bo An, Wenbin Li, Yang Gao. [Safe and Robust Subgame Exploitation in Imperfect Information Games](https://icml.cc/virtual/2024/poster/34372), International Conference on Machine Learning **(ICML)**, 2024.
 - Zhenxing Ge, **Zheng Xu**, Tianyu Ding, Wenbin Li, Yang Gao. [Efficient Subgame Refinement for Extensive-form Games](https://neurips.cc/virtual/2023/poster/72659), Advances in Neural Information Processing Systems **(NeurIPS)**, 2023.
